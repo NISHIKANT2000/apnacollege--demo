@@ -1,4 +1,4 @@
 # apnacollege--demo
 this is my first git repository.
 <br>
-Author - Nishikant Kute
+Author - Nishikant Kute(apna college)
